@@ -11,7 +11,7 @@ body {
 
 #aboutme{
   color:aliceblue;
-  text-align: center;
+  text-align: -webkit-auto;
   padding-bottom:25px;
 }
 #footer {

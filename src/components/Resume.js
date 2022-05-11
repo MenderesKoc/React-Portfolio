@@ -11,9 +11,9 @@ export default  class Resume extends Component {
                <p>
                  <h2>Front End Experience</h2>
                 <ul>
-                    <li>HTML</li>
-                    <li>CSS (Bootstrap)</li>
-                    <li>JavaScript</li>
+                    <li>HTML5</li>
+                    <li>CSS3(Bootstrap)</li>
+                    <li>JavaScript ES6+</li>
                     <li>jQuery</li>
                     <li>React.js</li>
                  </ul>
@@ -21,7 +21,7 @@ export default  class Resume extends Component {
                <h2>Back End Experience</h2>
                 <ul>
                     <li>Node.js</li>
-                    <li>Java</li>
+                    <li>PWAs</li>
                     <li>Express.js</li>
                     <li>SQL</li>
                     <li>mySQL</li>
