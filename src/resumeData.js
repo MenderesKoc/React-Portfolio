@@ -1,9 +1,6 @@
 let resumeData = {
-  "imagebaseurl": "https://github.com/MenderesKoc",
   "name": "Menderes Koc",
   "role": "Full Stack Web Developer",
-  "linkedinId": "Your LinkedIn Id",
-  "roleDescription": "",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -18,46 +15,53 @@ let resumeData = {
   ],
   "portfolio": [
     {
-      "name": "Colossal Hogs",
-      "description": "The PACK IS BACK",
-      "imgurl": "./images/ColossalHogs.png",
-      "imglink": "https://the-pack-is-back.herokuapp.com/"
-    },
-    {
-      "name": "Team Generator",
-      "description": "Generates a team",
-      "imgurl": "./images/TeamGeneratorProfile.png",
-      "imglink": "https://github.com/joshkuruvilla512/employee-summary"
-
-    },
-    {
-      "name": "ATX Now!",
-      "description": "Finding concerts in Austin",
-      "imgurl": "./images/ATXNow.png",
-      "imglink": "https://kgeary.github.io/atxnow/"
-
-    },
-    {
-      "name": "Trivia Quiz",
-      "description": "An Office themed Trivia Quiz",
-      "imgurl": "images/TrivaQuiz.png",
-      "imglink": "https://github.com/mendereskoc/runbuddy"
-
-    },
-    {
-      "name": "Second Portfolio Page with Bootstrap",
-      "description": "Introduced to Bootstrap",
-      "imgurl": "./images/PortfolioBootstrap.png",
-      "imglink": "https://github.com/mendereskoc/runbuddy"
-
-    },
-    {
-      "name": "First Portfolio Page",
-      "description": "Building blocks to coding",
-      "imgurl": "./images/Portfolio.png",
-      "imglink": "https://github.com/mendereskoc/runbuddy"
-
-    }
+      "id": 1,
+      "name": "Weather Dashboard",
+      "image": "https://glgberat.github.io/weather-dashboard/screenshot1.png",
+      "github": "https://github.com/MenderesKoc/taskmaster-pro",
+      "deploy": "https://glgberat.github.io/weather-dashboard",
+      "topics": "Javascript, JQuery, HTML, Bootstrap, API"
+      },
+      {
+      "id": 2,
+      "name": "Password Generator",
+      "image": "https://glgberat.github.io/password-generator/passwordg.png",
+      "github": "https://github.com/glgberat/password-generator",
+      "deploy": "https://glgberat.github.io/password-generator/",
+      "topics": "Javascript, HTML, CSS"
+      },
+      {
+      "id": 3,
+      "name": "Book Browser",
+      "image": "https://user-images.githubusercontent.com/95178236/152855907-f7084bb0-11b1-4d62-9fe4-231ed04222a1.png",
+      "github": "https://github.com/glgberat/project1",
+      "deploy": "https://glgberat.github.io/project1/",
+      "topics": "Javascript, WebApi, Jquery, HTML, Bootstrap, CSS"
+      },
+      {
+      "id": 4,
+      "name": "Restaurant-Rater",
+      "image": "https://user-images.githubusercontent.com/94802639/161417792-7245c8f5-af46-4490-814a-cd776e70ce7f.gif",
+      "github": "https://github.com/cathmcneel/restaurant-rater",
+      "deploy": "https://hidden-anchorage-87241.herokuapp.com/",
+      "topics": "Node.js, Javascript, MySql2, Bulma, Express, Sequlize, Handlebars, CSS"  
+      },
+      {
+      "id": 5,
+      "name": "Code Quiz",
+      "image": "https://glgberat.github.io/code-quiz/screenshots1.png",
+      "github": "https://github.com/glgberat/code-quiz",
+      "deploy": "https://glgberat.github.io/code-quiz/",
+      "topics": "HTML, CSS, DOM, Javascript"
+        },
+      {
+      "id": 6,
+      "name": "Budget-Wizard",
+      "image": "https://glgberat.github.io/budget-wizard/public/screenshot1.png",
+      "github": "https://github.com/glgberat/budget-wizard",
+      "deploy": "https://warm-atoll-71444.herokuapp.com/",
+      "topics": "HTML, Javascript, IndexedDB, MongoDB, Mongoose, PWA, "
+      }
   ]
  
 }

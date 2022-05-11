@@ -1,8 +1,10 @@
 {
+  "homepage":"https://github.com/MenderesKoc/react-portfolio.git",
   "name": "react-porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -13,8 +15,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d build"
   },
+
   "browserslist": {
     "production": [
       ">0.2%",
