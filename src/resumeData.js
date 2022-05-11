@@ -43,7 +43,8 @@ let resumeData = {
       "imgurl": "images/TrivaQuiz.png",
       "imglink": "https://github.com/mendereskoc/runbuddy"
 
-    },{
+    },
+    {
       "name": "Second Portfolio Page with Bootstrap",
       "description": "Introduced to Bootstrap",
       "imgurl": "./images/PortfolioBootstrap.png",

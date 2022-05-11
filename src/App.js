@@ -12,10 +12,10 @@ class App extends Component {
     return (
       <div className="App">
         <Header resumeData={resumeData}/>
-        <About resumeData={resumeData}/>
-        <Resume resumeData={resumeData}/>
+        <About/>
+        <Resume/>
         <Portfolio resumeData={resumeData}/>
-        <Contact resumeData={resumeData}/>
+        <Contact/>
         <Footer/>
       </div>
     );
