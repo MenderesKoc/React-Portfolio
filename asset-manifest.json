@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MenderesKoc/react-portfolio.git/static/css/main.a9d28235.chunk.css",
-    "main.js": "/MenderesKoc/react-portfolio.git/static/js/main.8245ab56.chunk.js",
-    "main.js.map": "/MenderesKoc/react-portfolio.git/static/js/main.8245ab56.chunk.js.map",
-    "runtime-main.js": "/MenderesKoc/react-portfolio.git/static/js/runtime-main.85164544.js",
-    "runtime-main.js.map": "/MenderesKoc/react-portfolio.git/static/js/runtime-main.85164544.js.map",
-    "static/js/2.ac3d2b48.chunk.js": "/MenderesKoc/react-portfolio.git/static/js/2.ac3d2b48.chunk.js",
-    "static/js/2.ac3d2b48.chunk.js.map": "/MenderesKoc/react-portfolio.git/static/js/2.ac3d2b48.chunk.js.map",
+    "main.js": "/MenderesKoc/react-portfolio.git/static/js/main.1e94231c.chunk.js",
+    "main.js.map": "/MenderesKoc/react-portfolio.git/static/js/main.1e94231c.chunk.js.map",
+    "runtime-main.js": "/MenderesKoc/react-portfolio.git/static/js/runtime-main.b104475c.js",
+    "runtime-main.js.map": "/MenderesKoc/react-portfolio.git/static/js/runtime-main.b104475c.js.map",
+    "static/js/2.c0f070b9.chunk.js": "/MenderesKoc/react-portfolio.git/static/js/2.c0f070b9.chunk.js",
+    "static/js/2.c0f070b9.chunk.js.map": "/MenderesKoc/react-portfolio.git/static/js/2.c0f070b9.chunk.js.map",
     "index.html": "/MenderesKoc/react-portfolio.git/index.html",
-    "precache-manifest.8c8ff8e38903e8765cb25d74003fe778.js": "/MenderesKoc/react-portfolio.git/precache-manifest.8c8ff8e38903e8765cb25d74003fe778.js",
+    "precache-manifest.1af44b2d0507bf99c7584fd5cf59a5f1.js": "/MenderesKoc/react-portfolio.git/precache-manifest.1af44b2d0507bf99c7584fd5cf59a5f1.js",
     "service-worker.js": "/MenderesKoc/react-portfolio.git/service-worker.js",
     "static/css/main.a9d28235.chunk.css.map": "/MenderesKoc/react-portfolio.git/static/css/main.a9d28235.chunk.css.map",
-    "static/js/2.ac3d2b48.chunk.js.LICENSE.txt": "/MenderesKoc/react-portfolio.git/static/js/2.ac3d2b48.chunk.js.LICENSE.txt",
+    "static/js/2.c0f070b9.chunk.js.LICENSE.txt": "/MenderesKoc/react-portfolio.git/static/js/2.c0f070b9.chunk.js.LICENSE.txt",
     "static/media/MenderesKocResume.docx": "/MenderesKoc/react-portfolio.git/static/media/MenderesKocResume.0410da14.docx"
   },
   "entrypoints": [
-    "static/js/runtime-main.85164544.js",
-    "static/js/2.ac3d2b48.chunk.js",
+    "static/js/runtime-main.b104475c.js",
+    "static/js/2.c0f070b9.chunk.js",
     "static/css/main.a9d28235.chunk.css",
-    "static/js/main.8245ab56.chunk.js"
+    "static/js/main.1e94231c.chunk.js"
   ]
 }
