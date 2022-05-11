@@ -12,7 +12,6 @@ const Contact = ({ data }) => {
 
    return (
       <section id="contact">
-   <h2 id="aboutme">About Me</h2>
          <div className="row section-head">
             <div className="ten columns">
                <p className="lead">{data?.message}</p>
