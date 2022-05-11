@@ -8,6 +8,12 @@ body {
   
   -moz-osx-font-smoothing: grayscale;
 }
+
+#aboutme{
+  color:aliceblue;
+  text-align: center;
+  padding-bottom:25px;
+}
 #footer {
   padding: 5px;
   margin-top: 10px;
