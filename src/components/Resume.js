@@ -12,7 +12,7 @@ export default  class Resume extends Component {
                  <h2>Front End Experience</h2>
                 <ul>
                     <li>HTML</li>
-                    <li>CSS (Bootstrap, Bulma)</li>
+                    <li>CSS (Bootstrap)</li>
                     <li>JavaScript</li>
                     <li>jQuery</li>
                     <li>React.js</li>

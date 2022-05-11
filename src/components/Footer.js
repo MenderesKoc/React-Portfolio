@@ -7,9 +7,9 @@ function Footer() {
             <div className="twelve columns">
               
             <div class="footer" id="footer">
-        <a href="https://github.com/glgberat"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="Github" class="icon"/></a>
-        <a href="https://www.linkedin.com/in/mehmet-huyuk-0a822888"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" class="icon"/></a>
-        <a href="https://twitter.com/glgbtr"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" class="icon"/></a>
+         <a href="https://github.com/MenderesKoc"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="Github" class="icon"/></a>
+        <a href="https://www.linkedin.com/in/mendereskoc/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="fa fa-linkedin" class="icon"/></a>
+        <a href="https://twitter.com/Mendereskoc4"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" class="icon"/></a>
         
     </div>
               <ul className="copyright">
