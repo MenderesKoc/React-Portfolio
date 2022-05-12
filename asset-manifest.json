@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/MenderesKoc/react-portfolio.git/static/css/main.a9d28235.chunk.css",
-    "main.js": "/MenderesKoc/react-portfolio.git/static/js/main.1e94231c.chunk.js",
-    "main.js.map": "/MenderesKoc/react-portfolio.git/static/js/main.1e94231c.chunk.js.map",
-    "runtime-main.js": "/MenderesKoc/react-portfolio.git/static/js/runtime-main.b104475c.js",
-    "runtime-main.js.map": "/MenderesKoc/react-portfolio.git/static/js/runtime-main.b104475c.js.map",
-    "static/js/2.c0f070b9.chunk.js": "/MenderesKoc/react-portfolio.git/static/js/2.c0f070b9.chunk.js",
-    "static/js/2.c0f070b9.chunk.js.map": "/MenderesKoc/react-portfolio.git/static/js/2.c0f070b9.chunk.js.map",
-    "index.html": "/MenderesKoc/react-portfolio.git/index.html",
-    "precache-manifest.1af44b2d0507bf99c7584fd5cf59a5f1.js": "/MenderesKoc/react-portfolio.git/precache-manifest.1af44b2d0507bf99c7584fd5cf59a5f1.js",
-    "service-worker.js": "/MenderesKoc/react-portfolio.git/service-worker.js",
-    "static/css/main.a9d28235.chunk.css.map": "/MenderesKoc/react-portfolio.git/static/css/main.a9d28235.chunk.css.map",
-    "static/js/2.c0f070b9.chunk.js.LICENSE.txt": "/MenderesKoc/react-portfolio.git/static/js/2.c0f070b9.chunk.js.LICENSE.txt",
-    "static/media/MenderesKocResume.docx": "/MenderesKoc/react-portfolio.git/static/media/MenderesKocResume.0410da14.docx"
+    "main.css": "/MenderesKoc/react-portfolio/static/css/main.a9d28235.chunk.css",
+    "main.js": "/MenderesKoc/react-portfolio/static/js/main.72c3930e.chunk.js",
+    "main.js.map": "/MenderesKoc/react-portfolio/static/js/main.72c3930e.chunk.js.map",
+    "runtime-main.js": "/MenderesKoc/react-portfolio/static/js/runtime-main.3affcbad.js",
+    "runtime-main.js.map": "/MenderesKoc/react-portfolio/static/js/runtime-main.3affcbad.js.map",
+    "static/js/2.1daed910.chunk.js": "/MenderesKoc/react-portfolio/static/js/2.1daed910.chunk.js",
+    "static/js/2.1daed910.chunk.js.map": "/MenderesKoc/react-portfolio/static/js/2.1daed910.chunk.js.map",
+    "index.html": "/MenderesKoc/react-portfolio/index.html",
+    "precache-manifest.7aba32c8a8ff14e5eee3c37b90a671b9.js": "/MenderesKoc/react-portfolio/precache-manifest.7aba32c8a8ff14e5eee3c37b90a671b9.js",
+    "service-worker.js": "/MenderesKoc/react-portfolio/service-worker.js",
+    "static/css/main.a9d28235.chunk.css.map": "/MenderesKoc/react-portfolio/static/css/main.a9d28235.chunk.css.map",
+    "static/js/2.1daed910.chunk.js.LICENSE.txt": "/MenderesKoc/react-portfolio/static/js/2.1daed910.chunk.js.LICENSE.txt",
+    "static/media/MenderesKocResume.docx": "/MenderesKoc/react-portfolio/static/media/MenderesKocResume.0410da14.docx"
   },
   "entrypoints": [
-    "static/js/runtime-main.b104475c.js",
-    "static/js/2.c0f070b9.chunk.js",
+    "static/js/runtime-main.3affcbad.js",
+    "static/js/2.1daed910.chunk.js",
     "static/css/main.a9d28235.chunk.css",
-    "static/js/main.1e94231c.chunk.js"
+    "static/js/main.72c3930e.chunk.js"
   ]
 }
