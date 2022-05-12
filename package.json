@@ -1,9 +1,10 @@
 {
-  "homepage": "https://github.com/MenderesKoc/react-portfolio.git",
+  "homepage": "https://github.com/MenderesKoc/react-portfolio",
   "name": "react-porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajax": "^0.0.4",
     "jquery": "^3.5.1",
     "protobufjs": "^6.11.2",
     "react": "^16.13.1",
