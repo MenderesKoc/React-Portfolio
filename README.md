@@ -4,7 +4,7 @@ This project was bootstrapped with Create React App. A Personal full stack devel
 
 ## Deployed URL
 
-https://mendereskoc.github.io/portfolio-react/#/portfolio
+https://mendereskoc.github.io/react-portfolio/
 
  ## Stacks/Techs Used
 * Javascript
