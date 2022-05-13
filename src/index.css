@@ -5,19 +5,18 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  
+
   -moz-osx-font-smoothing: grayscale;
 }
 
-#aboutme{
-  color:aliceblue;
+#aboutme {
+  color: aliceblue;
   text-align: -webkit-auto;
-  padding-bottom:25px;
+  padding-bottom: 25px;
 }
 #footer {
   padding: 5px;
   margin-top: 10px;
-  
 }
 #footer {
   background-color: var(--mint-cream);
