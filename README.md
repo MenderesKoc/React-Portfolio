@@ -1,4 +1,4 @@
-# React Portfolio 
+# React Portfolio
 
 This project was bootstrapped with Create React App. A Personal full stack development portfolio.
 
@@ -6,31 +6,33 @@ This project was bootstrapped with Create React App. A Personal full stack devel
 
 https://mendereskoc.github.io/react-portfolio/
 
- ## Stacks/Techs Used
-* Javascript
-* Node.js
-* PWA
-* React.js
+## Stacks/Techs Used
 
+- Javascript
+- Node.js
+- PWA
+- React.js
 
 ## Installation
+
 - Clone the repo
-- To start server run "npm install" 
+- To start server run "npm install"
 - Go to localhost:30001
 
 `npm install`
-## Usage   
-  
+
+## Usage
+
 Run the following commands at the root of your project if you would like to use it locally.
 
 `npm start`
 
 ## Screenshots
 
-![ScreenShot](/src/img/Screenshot.png)
+![ScreenShot](/src/images/Screenshot.png)
 
 ## Questions
-  
+
 Contact for questions and suggestions:
 
 - Menderes koc
@@ -42,4 +44,4 @@ Contact for questions and suggestions:
   <a href="mailto:mndrs.kc@gmail.com?subject=Hello%20Menderes,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-Made With Passion©️2022 Mendere Koc 
+Made With Passion©️2022 Mendere Koc
