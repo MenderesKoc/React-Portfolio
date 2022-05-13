@@ -14,12 +14,11 @@ class App extends Component {
         <Header resumeData={resumeData}/>
         <About/>
         <Resume/>
-        <Portfolio/>
+        <Portfolio resumeData={resumeData}/>
         <Contact/>
         <Footer/>
       </div>
     );
   }
 }
-
 export default App;

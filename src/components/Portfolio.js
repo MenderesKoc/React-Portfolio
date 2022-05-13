@@ -1,31 +1,23 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class Porfolio extends Component {
-  render() {
-    
-    return (
-      <section id="portfolio">
-      <div className="row">
-        <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Work!</h1>
-          <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                      
-                      <div className="overlay">
-                   
-                        <div className="portfolio-item-meta">
-                          
-                        </div>
-    
-                      </div>
-                  </div>
-                </div>
-        
-          </div>
-        </div>
+function ProjectCards(props) {
+  return (
+    <div className="card"> 
+      <div className="img-container">
+        <img alt={props.name} src={props.image}/>
       </div>
-  </section>
-        );
-  }
+      <div className="content">
+            <p className="project-title" id="card-title">{props.name}</p>menderess
+            <p>
+            <a href={props.github}><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Repository" id="project-icon"/></a> 
+            <a href={props.deploy}><img src="https://img.icons8.com/color/48/000000/monitor.png" alt="Deployed Site" id="project-icon"/></a> 
+            </p>
+            <p id="topics">
+                  ({props.topics})
+              </p>
+      </div>
+    </div>
+  );
 }
+
+export default ProjectCards;
